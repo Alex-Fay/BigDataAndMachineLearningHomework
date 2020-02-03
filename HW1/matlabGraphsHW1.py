@@ -1,3 +1,4 @@
+# @author: Alex Fay using code set up provided in HW1
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -69,4 +70,4 @@ if __name__ == '__main__':
 		('original fit', 'fit with noise'), loc = 'best')
 	plt.savefig('hw1pr2d.png', format='png')
 	plt.show()
-    plt.close()
+	
