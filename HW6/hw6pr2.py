@@ -34,7 +34,7 @@ if __name__ == '__main__':
 
 	#----- Generate singular value dropoff plot ----
 	orig_S_plot = plt.plot(S[0:k], 'c') #cyan used 
-	shuf_S_plot = plt.plot(S_s[0:k], 'r') #red used
+	shuf_S_plot = plt.plot(S_s[0:k], 'g') #red used
 
 	plt.legend((orig_S_plot, shuf_S_plot), \
 		('original', 'shuffled'), loc = 'best')
