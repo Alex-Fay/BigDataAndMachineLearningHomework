@@ -18,4 +18,4 @@ in a faster convergence algorithm compared to existing methods. The proposed FEM
 
 The github provides additional details to this paper (some unmentioned parts) including the comparison between different algorithms (seen in the box and whiskers read me chart below). Additionally, graphs are provided showing the differences between tissue type which the combined EM algorithm detected using frequncy and intensity. 
 
-![Image] (https://github.com/anindox8/Atlas-Based-3D-Brain-Segmentation-in-T1-MRI/blob/master/reports/images/res01.png)
+![Image of Time Stample](https://github.com/anindox8/Atlas-Based-3D-Brain-Segmentation-in-T1-MRI/blob/master/reports/images/res01.png)
