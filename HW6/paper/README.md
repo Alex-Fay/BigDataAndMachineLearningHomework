@@ -10,10 +10,12 @@ Manually sorting the data is tedious and often causes error between changing peo
 This paper analyzes how to improve upon existing MRI algorithms to sort this data using a hidden Markov
 random field model and applying it to the existing EM.
 
-![Alt text](https://github.com/Alex-Fay/BigDataAndMachineLearningHomework/tree/master/HW6/paper/proof1.png)
-![Alt text](https://github.com/Alex-Fay/BigDataAndMachineLearningHomework/tree/master/HW6/paper/proof2.png)
+![](proof1.png)
+![](proof2.png)
 
 From thier results, they were able to smooth out the time stamps between each image slice and resulted
-in a faster convergence algorithm compared to existing methods. The proposed FEM-KMeans (the compbined algorithm)
-performed better than the classic EM.
+in a faster convergence algorithm compared to existing methods. The proposed FEM-KMeans (the compbined algorithm) performed better than the classic EM. Unfortunetly, no specific numbers on time were added to the paper. 
 
+The github provides additional details to this paper (some unmentioned parts) including the comparison between different algorithms (seen in the box and whiskers read me chart below). Additionally, graphs are provided showing the differences between tissue type which the combined EM algorithm detected using frequncy and intensity. 
+
+![] (https://github.com/anindox8/Atlas-Based-3D-Brain-Segmentation-in-T1-MRI/blob/master/reports/images/res01.png)
