@@ -12,3 +12,5 @@ HW3: Softmax & log regression
 HW4: Conditional Distribution, (code) Deciphering Handwritten 1's and 0's
 
 HW5: Deriving Residual Error for PCA and Regularization
+
+HW6: Expectation-Maximization Algorithm and Image Compression
