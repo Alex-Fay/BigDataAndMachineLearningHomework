@@ -1,4 +1,4 @@
-#A Summary of Brain MR Segmentation through Fuzzy Expextation Maximization and K means
+## A Summary of Brain MR Segmentation through Fuzzy Expextation Maximization and K means
 
 ## Github: https://github.com/anindox8/Atlas-Based-3D-Brain-Segmentation-in-T1-MRI
 
@@ -10,8 +10,8 @@ Manually sorting the data is tedious and often causes error between changing peo
 This paper analyzes how to improve upon existing MRI algorithms to sort this data using a hidden Markov
 random field model and applying it to the existing EM.
 
-![image](proof1.png)
-![image](proof2.png)
+![Alt text](proof1.png)
+![Alt text](proof2.png)
 
 From thier results, they were able to smooth out the time stamps between each image slice and resulted
 in a faster convergence algorithm compared to existing methods. The proposed FEM-KMeans (the compbined algorithm)
