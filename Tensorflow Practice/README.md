@@ -1,4 +1,4 @@
-#Style Transfer Tensorflow
+## Style Transfer Tensorflow
 
 Tutorial can be found here: https://www.tensorflow.org/tutorials/generative/style_transfer
 
