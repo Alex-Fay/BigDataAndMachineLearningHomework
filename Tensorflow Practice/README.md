@@ -4,7 +4,9 @@ Tutorial can be found here: https://www.tensorflow.org/tutorials/generative/styl
 I have updated the readme for the new style transfer version (simpler) with th link above. The attached
 code is for the old version (still compiles, but has a far longer run time then the link above.)
 
-## Overview
+## Simplified Overview
+Skipping a few basic steps (please see code) including inputs and full model setup, the general structure is explained below. 
+
   ### SetUp:
 Using Keras' VGG19, a pretrained classification model, import image weights without a classification head.
 This will give you acess to the following:
