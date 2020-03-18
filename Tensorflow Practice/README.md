@@ -57,7 +57,7 @@ def vgg_layers(layer_names):
   
 The style of an image is equal to the mean and correlations across the different feature maps of the image. We can use the Gram Matrix to get this information. This is found by taking the summation of the square feature weights and averaging the values by the feature's outer product.
 
-![alt text]("GramMatrix.png")
+![alt text]("https://github.com/Alex-Fay/BigDataAndMachineLearningHomework/blob/master/Tensorflow%20Practice/gramMatrix.PNG")
 
 ```python
 def gram_matrix(input_tensor):
